@@ -1,5 +1,5 @@
 def containerName="docker-pipeline"
-def tag="latest"
+def tag="v1"
 def dockerHubUser="jyotimalpani"
 def httpPort="8090"
 
